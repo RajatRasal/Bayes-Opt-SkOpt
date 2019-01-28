@@ -14,4 +14,13 @@ From an academic standpoint, this analysis is a good way to understand how to us
 
 ## Bayesian Search (taken from notebook)
 Below is the Bayesian search algorithm used. Specifics have been removed by can be found in the notebook.
+
+`<section><script src="https://gist.github.com/RajatRasal/8bdc3dc7e71900d61a36a833bf161be3.js?file=simple_bayesian_search.py"></script></section>`
+
+<script src="https://gist.github.com/RajatRasal/8bdc3dc7e71900d61a36a833bf161be3.js?file=simple_bayesian_search.py"></script>
+  
 <script src="https://gist.github.com/RajatRasal/8bdc3dc7e71900d61a36a833bf161be3.js"></script>
+
+{{ gist 8bdc3dc7e71900d61a36a833bf161be3 }}
+
+{{gist "8bdc3dc7e71900d61a36a833bf161be3"}}
