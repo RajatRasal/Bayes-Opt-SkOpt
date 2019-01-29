@@ -13,6 +13,6 @@ In a business setting, a detailed analysis of this dataset might be done to dete
 From an academic standpoint, this analysis is a good way to understand how to use the *scikit-optimise* library to perform Bayesian Optimisation. This may not be the best library to perform a Bayesian search, however this is well known to be a easy to use and provide a wide range of functionality. From some prior reading, this dataset is imbalanced. A major challenge when analysing this will arise from how to handle this, without causing a large bias in the results or overfitting due to the majority label.
 
 ## Bayesian Search (taken from notebook)
-Below is the Bayesian search algorithm used. Specifics have been removed by can be found in the notebook.
+Below is the Bayesian search algorithm used. Specifics have been removed by can be found in the notebook. **Click on the image below to go to a gist for this code**.
 
-![bayesian code snippet](./bayesian_code.png)
+<a href="https://gist.github.com/RajatRasal/8bdc3dc7e71900d61a36a833bf161be3">![bayesian code snippet](./bayesian_code.png)</a>
